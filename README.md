@@ -1,5 +1,5 @@
 # Multi-Agent System Evaluation
-Script for evaluation using a multi-agent system ([Li et al, 2024](https://doi.org/10.1007/s44336-024-00009-2)). It allows multiple personas to evaluate a set of items based on defined criteria, generating structured responses that include ratings, justifications, and rankings. This script requires a valid Google API key to run. Please create a `.env` file directly inside the repository folder and add the line `GOOGLE_API_KEY=actual_api_key` inside it.
+Script for evaluation using a multi-agent system ([Li et al, 2024](https://doi.org/10.1007/s44336-024-00009-2)). It allows multiple personas to evaluate a set of items based on defined criteria, generating structured responses that include ratings, justifications, and rankings. This script requires a valid Google API key to run. A `.env` file must be created directly inside the repository folder with the line `GOOGLE_API_KEY=actual_api_key` inside it.
 
 Environment setup:
 
