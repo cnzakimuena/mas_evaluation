@@ -17,7 +17,7 @@ pip install -r requirements.txt
 Usage:
 
 ```bash
-python multi_agent_evaluation.py
+python mas_evaluation.py
 ```
 
 <p align="center">
